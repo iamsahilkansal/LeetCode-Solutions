@@ -12,10 +12,10 @@ public:
     int guessNumber(int n) {
         while(guess(n)!=0){
             if(guess(n)==-1){
-                n=n/2;
+                n--;
             }
             else{
-                n=n+n/2;
+                n++;
             }
         }
         return n;

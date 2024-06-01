@@ -18,23 +18,14 @@ public:
             int tempval;
             if(temp1==NULL){
                 tempval=carry+temp2->val;
-                //ListNode* ansTemp=new ListNode(tempval%10);
-                //carry=tempval/10;
                 temp2=temp2->next;
-                //head->next=ansTemp;
             }
             else if(temp2==NULL){
                 tempval=carry+temp1->val;
-                //ListNode* ansTemp=new ListNode(tempval%10);
-                //carry=tempval/10;
                 temp1=temp1->next;
-                //head->next=ansTemp;
             }
             else{
                 tempval=carry+temp1->val+temp2->val;
-                //ListNode* ansTemp=new ListNode(tempval%10);
-                //carry=tempval/10;
-                //head->next=ansTemp;
                 temp1=temp1->next;
                 temp2=temp2->next;
             }

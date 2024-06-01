@@ -14,8 +14,8 @@ public:
         int carry=0;
         ListNode* ans=new ListNode();
         ListNode* head=ans;
+        int tempval;
         while(temp1!=NULL || temp2!=NULL){
-            int tempval;
             if(temp1==NULL){
                 tempval=carry+temp2->val;
                 temp2=temp2->next;

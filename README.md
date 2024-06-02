@@ -19,3 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0228-summary-ranges](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0228-summary-ranges) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+# Math
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+# Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |

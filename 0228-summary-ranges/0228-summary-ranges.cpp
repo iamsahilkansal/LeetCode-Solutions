@@ -7,7 +7,6 @@ public:
         for(int i=0; i<n; i++){
             temp.insert(nums[i]);
         }
-        cout<<to_string(-213);
         for(int i=0; i<n; i++){
             if(temp.find((long long int)nums[i]+1)==temp.end()){
                 ans.push_back(to_string(nums[i]));

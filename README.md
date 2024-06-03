@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0228-summary-ranges](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [1580-shuffle-the-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [2048-build-array-from-permutation](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -88,3 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1908-recyclable-and-low-fat-products](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1948-rearrange-products-table) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+# Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0724-find-pivot-index) |

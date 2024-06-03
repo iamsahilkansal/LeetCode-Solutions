@@ -13,12 +13,9 @@ public:
                 int ptr1=0, ptr2=0;
                 while(ptr1<s.length() && ptr2<words[i].length()){
                     if(s[ptr1]==words[i][ptr2]){
-                        ptr1++;
                         ptr2++;
                     }
-                    else{
-                        ptr1++;
-                    }
+                    ptr1++;
                 }
                 if(ptr2==words[i].length()){
                     word=words[i];

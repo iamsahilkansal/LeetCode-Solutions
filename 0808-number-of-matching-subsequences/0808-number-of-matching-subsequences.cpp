@@ -2,13 +2,9 @@ class Solution {
 public:
     int numMatchingSubseq(string s, vector<string>& words) {
         int ans=0;
-        //unordered_set<string> uset;
         string word="";
         sort(words.begin(), words.end());
         for(int i=0; i<words.size(); i++){
-            /*if(uset.find(words[i])!=uset.end()){
-                ans++;
-            }*/
             if(word==words[i]){
                 ans++;
                 continue;
@@ -25,7 +21,6 @@ public:
                     }
                 }
                 if(ptr2==words[i].length()){
-                    //uset.insert(words[i]);
                     word=words[i];
                     ans++;
                 }

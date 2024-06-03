@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2998-count-symmetric-integers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 # Number Theory
 |  |
 | ------- |
@@ -59,3 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
+# Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |

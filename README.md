@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
+| [2048-build-array-from-permutation](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 # Math
 |  |
@@ -66,3 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
+# Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |

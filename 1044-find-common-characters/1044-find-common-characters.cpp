@@ -1,9 +1,9 @@
 class Solution {
 public:
     vector<string> commonChars(vector<string>& words) {
-        string ans=words[0], temp;
+        string ans=words[0];
         for(int i=1; i<words.size(); i++){
-            temp.clear();
+            string temp;
             for(int j=0; j<ans.size(); j++){
                 if(words[i].find(ans[j])<words[i].length()){
                     words[i][words[i].find(ans[j])]='0';

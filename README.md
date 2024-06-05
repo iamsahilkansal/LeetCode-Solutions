@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
+| [1044-find-common-characters](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3194-find-words-containing-character](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
+| [1044-find-common-characters](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
+| [1044-find-common-characters](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3412-permutation-difference-between-two-strings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 # Binary Search

@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [1044-find-common-characters](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1044-find-common-characters) |
+| [1547-destination-city](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1547-destination-city) |
 | [2032-largest-odd-number-in-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3194-find-words-containing-character](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1547-destination-city](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1547-destination-city) |
 | [1580-shuffle-the-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [2048-build-array-from-permutation](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1547-destination-city](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1547-destination-city) |
 | [3412-permutation-difference-between-two-strings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 # Binary Search
 |  |

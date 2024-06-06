@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 # Sorting
 |  |

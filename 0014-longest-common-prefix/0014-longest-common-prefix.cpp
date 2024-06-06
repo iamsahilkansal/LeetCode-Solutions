@@ -6,13 +6,11 @@ public:
             if(ans==strs[i]){
                 continue;
             }
-            //string temp=ans;
             int j=0;
             while(ans[j]==strs[i][j]){
                 j++;
             }
             ans=ans.substr(0, j);
-            cout<<ans<<" ";
         }
         return ans;
     }

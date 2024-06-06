@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [1044-find-common-characters](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1044-find-common-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3194-find-words-containing-character](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2556-convert-the-temperature](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2556-convert-the-temperature) |
 | [2998-count-symmetric-integers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
+| [2032-largest-odd-number-in-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Dynamic Programming
 |  |

@@ -24,9 +24,11 @@ public:
         while(temp->next!=NULL){
             int ans=gcd(max(temp->val, temp->next->val), min(temp->val, temp->next->val));
             ListNode* temp1=new ListNode(ans);
-            temp1->next=temp->next;
+            ListNode* temp2=temp->next;
+            temp->next=NULL;
             temp->next=temp1;
-            temp=temp1->next;
+            temp1->next=temp2;
+            temp=temp2;
         }
         return head;
     }

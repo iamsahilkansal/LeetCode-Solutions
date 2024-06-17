@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0633-sum-of-square-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 # Trie
 |  |

@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2556-convert-the-temperature](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2556-convert-the-temperature) |
+| [2752-sum-multiples](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2752-sum-multiples) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |

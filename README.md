@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 # Math
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Enumeration
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 # Simulation
 |  |

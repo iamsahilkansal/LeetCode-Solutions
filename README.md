@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0176-second-highest-salary](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0178-rank-scores) |
+| [0197-rising-temperature](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [0627-swap-salary](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0627-swap-salary) |

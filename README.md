@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0633-sum-of-square-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1585-the-kth-factor-of-n](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 # Greedy

@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0228-summary-ranges](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 # Hash Table
@@ -181,3 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1137-height-checker) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |

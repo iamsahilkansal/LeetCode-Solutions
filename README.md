@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2844-sum-of-squares-of-special-elements](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 # Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-destination-city](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1547-destination-city) |
 | [2487-optimal-partition-of-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 # Binary Search
 |  |
 | ------- |

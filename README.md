@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 # Math
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Trie
 |  |
 | ------- |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Enumeration
 |  |
 | ------- |

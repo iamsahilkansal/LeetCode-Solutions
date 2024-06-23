@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [2481-strictly-palindromic-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2481-strictly-palindromic-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2752-sum-multiples) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -197,3 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+# Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |

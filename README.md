@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -133,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0876-hand-of-straights](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
@@ -194,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 # Counting Sort
 |  |

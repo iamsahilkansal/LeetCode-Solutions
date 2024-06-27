@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 # Array
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |

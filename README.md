@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0268-missing-number) |

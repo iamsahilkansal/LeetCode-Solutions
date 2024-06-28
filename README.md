@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2379-maximum-total-importance-of-roads](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2487-optimal-partition-of-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Dynamic Programming
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2379-maximum-total-importance-of-roads](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Enumeration
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2379-maximum-total-importance-of-roads](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 # Bucket Sort
 |  |
 | ------- |
@@ -241,3 +244,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |

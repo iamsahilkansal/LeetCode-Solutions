@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0876-hand-of-straights](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0876-hand-of-straights) |

@@ -1,8 +1,5 @@
 class Solution {
 public:
-    static bool comp(int a, int b){
-        return a>b;
-    }
     int thirdMax(vector<int>& nums) {
         unordered_set<int> temp;
         vector<int>ans;
@@ -12,11 +9,10 @@ public:
                 ans.push_back(nums[i]);
             }
         }
-        sort(ans.begin(), ans.end(), comp);
-        cout<<ans.size();
+        sort(ans.begin(), ans.end());
         if(ans.size()>2){
-            return ans[2];
+            return ans[ans.size()-3];
         }
-        return ans[0];
+        return ans[ans.size()-1];
     }
 };

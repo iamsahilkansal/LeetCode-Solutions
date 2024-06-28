@@ -245,3 +245,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
+# Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+# Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+# Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |

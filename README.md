@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0274-h-index) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 # Matrix
@@ -273,4 +277,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |

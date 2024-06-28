@@ -9,19 +9,16 @@ public:
             temp[roads[i][0]]++;
             temp[roads[i][1]]++;
         }
-        vector<vector<int>>temp1;
+        priority_queue<pair<int, int>> q;
         for(auto x: temp){
-            temp1.push_back({x.first, x.second});
+            q.push({x.second, x.first});
         }
-        sort(temp1.begin(), temp1.end(), comp);
-        
         temp.clear();
-        for(int i=0; i<temp1.size(); i++){
-            temp1[i][1]=n;
+        while(!q.empty()){
+            auto x=q.top();
+            temp[x.second]=n;
             n--;
-        }
-        for(int i=temp1.size()-1; i>-1; i--){
-            temp[temp1[i][0]]=temp1[i][1];
+            q.pop();
         }
         long long ans=0;
         for(int i=0; i<roads.size(); i++){

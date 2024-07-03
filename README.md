@@ -302,10 +302,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2470-removing-stars-from-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## String
 |  |
 | ------- |
+| [2470-removing-stars-from-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Sorting
 |  |
@@ -325,4 +327,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1752-arithmetic-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1752-arithmetic-subarrays) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

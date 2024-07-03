@@ -287,9 +287,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2714-left-and-right-sum-differences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2714-left-and-right-sum-differences) |
+## Matrix
+|  |
+| ------- |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+## Simulation
+|  |
+| ------- |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->

@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy

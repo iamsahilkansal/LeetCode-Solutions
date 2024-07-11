@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1293-three-consecutive-odds](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1752-arithmetic-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1752-arithmetic-subarrays) |
@@ -368,4 +369,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

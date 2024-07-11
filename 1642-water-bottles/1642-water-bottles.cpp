@@ -4,7 +4,6 @@ public:
         int filled=numBottles, empty=0;
         while(filled>0){
             empty=empty+filled;
-            filled=0;
             filled=empty/numExchange;
             empty=empty%numExchange;
             numBottles+=filled;

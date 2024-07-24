@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [2187-vowels-of-all-substrings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Sorting
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1642-water-bottles) |
+| [2187-vowels-of-all-substrings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 | [2645-pass-the-pillow](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 ## Divide and Conquer
 |  |
@@ -373,8 +375,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [2187-vowels-of-all-substrings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0338-counting-bits) |
+## Combinatorics
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->

@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2714-left-and-right-sum-differences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2714-left-and-right-sum-differences) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2187-vowels-of-all-substrings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Sorting
 |  |
 | ------- |

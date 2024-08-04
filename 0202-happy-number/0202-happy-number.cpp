@@ -7,12 +7,11 @@ public:
         unordered_set<int>uset;
         while(n>1 && uset.find(n)==uset.end()){
             uset.insert(n);
-            int temp=n;
             int temp1=0;
-            while(temp>0){
-                int digit=temp%10;
-                temp1=temp1+(digit*digit);
-                temp/=10;
+            while(n>0){
+                int digit=n%10;
+                temp1+=(digit*digit);
+                n/=10;
             }
             if(temp1==1){
                 return true;

@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1720-crawler-log-folder](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1752-arithmetic-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [1333-sort-the-jumbled-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1752-arithmetic-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy
@@ -397,4 +400,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
+## Binary Search
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->

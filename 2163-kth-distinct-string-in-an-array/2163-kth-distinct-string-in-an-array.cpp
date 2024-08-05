@@ -5,11 +5,11 @@ public:
         for(int i=0; i<arr.size(); i++){
             umap[arr[i]]++;
         }
-        for(auto x: arr){
-            if(umap[x]==1){
+        for(int i=0; i<arr.size(); i++){
+            if(umap[arr[i]]==1){
                 k--;
                 if(k==0){
-                    return x;
+                    return arr[i];
                 } 
             }     
         }

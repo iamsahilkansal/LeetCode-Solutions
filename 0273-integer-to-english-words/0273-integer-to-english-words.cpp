@@ -62,16 +62,14 @@ public:
                         if (temp1 % 10 > 0) {
                             ans += S3Values[temp1 % 10] + " ";
                         }
-                        ans += SValues[a.size() - 1 - i] + " ";
-                    } else if (temp1 >= 10) {
+                    } 
+                    else if (temp1 >= 10) {
                         ans += S2Values[temp1 - 10] + " ";
-                        ans += SValues[a.size() - 1 - i] + " ";
-                    } else if (temp1 > 0) {
+                    } 
+                    else if (temp1 > 0) {
                         ans += S3Values[temp1] + " ";
-                        ans += SValues[a.size() - 1 - i] + " ";
-                    } else {
-                        ans += SValues[a.size() - 1 - i] + " ";
                     }
+                    ans += SValues[a.size() - 1 - i] + " ";
                 }
             }
         }

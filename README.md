@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0455-assign-cookies](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [1115-valid-boomerang](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
 | [1293-three-consecutive-odds](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1752-arithmetic-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1752-arithmetic-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
@@ -459,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [3516-design-neighbor-sum-service](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3516-design-neighbor-sum-service) |
 ## Breadth-First Search
 |  |
@@ -473,4 +477,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->

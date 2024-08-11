@@ -389,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 ## Number Theory
 |  |

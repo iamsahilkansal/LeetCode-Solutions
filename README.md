@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0202-happy-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [1086-divisor-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
 | [1372-check-if-it-is-a-good-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1642-water-bottles](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1642-water-bottles) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [1086-divisor-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [2187-vowels-of-all-substrings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2187-vowels-of-all-substrings) |
@@ -514,4 +516,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->

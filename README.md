@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [1250-longest-common-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1720-crawler-log-folder](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |

@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [1670-patients-with-a-condition](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1670-patients-with-a-condition) |
 ## Geometry

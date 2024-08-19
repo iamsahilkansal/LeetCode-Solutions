@@ -12,6 +12,9 @@
 class Solution {
 public:
     bool evaluateTree(TreeNode* root) {
+        if(root==NULL){
+            return false;
+        }
         if(root->val==0){
             return false;
         }

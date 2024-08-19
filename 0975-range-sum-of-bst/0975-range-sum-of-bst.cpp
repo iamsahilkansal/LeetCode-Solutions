@@ -9,26 +9,28 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+ //Using BFS
 class Solution {
 public:
     int rangeSumBST(TreeNode* root, int low, int high) {
-        int sum=0;
         if(root==NULL){
-            return sum;
+            return 0;
         }
-        stack<TreeNode*>stk;
-        stk.push(root);
-        while(!stk.empty()){
-            TreeNode* curr=stk.top();
-            stk.pop();
+        int sum=0;
+        queue<TreeNode*>q;
+        q.push(root);
+        while(!q.empty()){
+            TreeNode* curr=q.front();
+            q.pop();
             if(curr->val>=low && curr->val<=high){
                 sum+=curr->val;
             }
             if(curr->left){
-                stk.push(curr->left);
+                q.push(curr->left);
             }
             if(curr->right){
-                stk.push(curr->right);
+                q.push(curr->right);
             }
         }
         return sum;

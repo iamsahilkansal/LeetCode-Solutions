@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2714-left-and-right-sum-differences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3516-design-neighbor-sum-service](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Prefix Sum

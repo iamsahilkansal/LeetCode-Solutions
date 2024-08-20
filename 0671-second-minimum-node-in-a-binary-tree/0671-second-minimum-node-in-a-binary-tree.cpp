@@ -18,28 +18,23 @@ public:
         priority_queue<int, vector<int>, greater<int>>pq;
         queue<TreeNode*>q;
         q.push(root);
-        q.push(NULL);
+        //q.push(NULL);
         unordered_set<int> uset;
         while(!q.empty()){
             TreeNode* curr=q.front();
             q.pop();
-            if(curr==NULL){
-                if(!q.empty()){
-                    q.push(NULL);
-                }
+            
+            if(uset.find(curr->val)==uset.end()){
+                pq.push(curr->val);
             }
-            else{
-                if(uset.find(curr->val)==uset.end()){
-                    pq.push(curr->val);
-                }
-                if(curr->left){
-                    q.push(curr->left);
-                }
-                if(curr->right){
-                    q.push(curr->right);
-                }
-                uset.insert(curr->val);
+            if(curr->left){
+                q.push(curr->left);
             }
+            if(curr->right){
+                q.push(curr->right);
+            }
+            uset.insert(curr->val);
+            
         }
         if(pq.size()==1||pq.size()==0){
             return -1;

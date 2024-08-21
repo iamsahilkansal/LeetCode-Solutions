@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1677-matrix-diagonal-sum](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1720-crawler-log-folder](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1752-arithmetic-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1752-arithmetic-subarrays) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1115-valid-boomerang](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
 | [1372-check-if-it-is-a-good-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1642-water-bottles](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1642-water-bottles) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2187-vowels-of-all-substrings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Counting
 |  |
 | ------- |

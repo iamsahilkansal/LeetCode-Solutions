@@ -497,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -562,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -582,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Brainteaser

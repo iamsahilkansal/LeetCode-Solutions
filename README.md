@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1572-subrectangle-queries](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1677-matrix-diagonal-sum](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1720-crawler-log-folder](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [1572-subrectangle-queries](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
 | [1677-matrix-diagonal-sum](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3516-design-neighbor-sum-service](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3516-design-neighbor-sum-service) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
+| [1572-subrectangle-queries](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
 | [1708-design-parking-system](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [3516-design-neighbor-sum-service](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3516-design-neighbor-sum-service) |
 ## Breadth-First Search

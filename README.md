@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1572-subrectangle-queries](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
 | [1677-matrix-diagonal-sum](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3516-design-neighbor-sum-service](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3516-design-neighbor-sum-service) |
 ## Simulation
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2128-reverse-prefix-of-word](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2187-vowels-of-all-substrings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2187-vowels-of-all-substrings) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -424,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2187-vowels-of-all-substrings](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2187-vowels-of-all-substrings) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 ## Divide and Conquer

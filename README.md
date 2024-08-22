@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0455-assign-cookies](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0682-baseball-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [1115-valid-boomerang](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
 | [1293-three-consecutive-odds](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1708-design-parking-system](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |

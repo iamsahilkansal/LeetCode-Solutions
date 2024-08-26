@@ -523,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1005-univalued-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |

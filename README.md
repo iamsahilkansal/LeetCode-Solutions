@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -610,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |

@@ -436,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1086-divisor-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
 | [1372-check-if-it-is-a-good-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1372-check-if-it-is-a-good-array) |
+| [1610-xor-operation-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |

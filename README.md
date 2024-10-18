@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2714-left-and-right-sum-differences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3321-type-of-triangle](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3516-design-neighbor-sum-service](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2887-sort-vowels-in-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3321-type-of-triangle](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
+| [3321-type-of-triangle](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |

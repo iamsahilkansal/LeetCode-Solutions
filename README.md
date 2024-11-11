@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0273-integer-to-english-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0742-to-lower-case](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [1250-longest-common-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |

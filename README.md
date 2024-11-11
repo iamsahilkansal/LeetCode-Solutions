@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0455-assign-cookies](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -438,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [1086-divisor-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1086-divisor-game) |

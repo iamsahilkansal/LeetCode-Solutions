@@ -3,17 +3,18 @@ using namespace std;
 class Solution {
 public:
     bool isPalindrome(int x) {
-        string str=to_string(x);
-        string str1=str;
-        int n = str1.length();
-        for (int i = 0; i < n / 2; i++){
-            swap(str1[i], str1[n - i - 1]);
-        }
-        if(str==str1){
-            return true;
-        }
-        else{
+        if(x<0){
             return false;
         }
+        if(x>=0 && x<10){
+            return true;
+        }
+        string s=to_string(x);
+        for(int i=0; i<s.length()/2; i++){
+            if(s[i]!=s[s.length()-i-1]){
+                return false;
+            }
+        }
+        return true;
     }
 };

@@ -9,9 +9,6 @@ public:
         for(auto x: apple){
             sum+=x;
         }
-        for(auto x: capacity){
-            cout<<x<<" ";
-        }
         int temp=0, cnt=0;;
         for(auto x: capacity){
             if(x+temp>=sum){

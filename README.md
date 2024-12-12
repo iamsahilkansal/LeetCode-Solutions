@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
+| [0898-transpose-matrix](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [1115-valid-boomerang](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
 | [1293-three-consecutive-odds](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1572-subrectangle-queries](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |
 | [1677-matrix-diagonal-sum](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0898-transpose-matrix](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1708-design-parking-system](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |

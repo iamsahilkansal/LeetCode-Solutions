@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1642-water-bottles) |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0273-integer-to-english-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0742-to-lower-case](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0742-to-lower-case) |

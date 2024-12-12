@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [2714-left-and-right-sum-differences](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Matrix
 |  |
@@ -527,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [1572-subrectangle-queries](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1572-subrectangle-queries) |

@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
+| [0837-most-common-word](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [0898-transpose-matrix](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [1115-valid-boomerang](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0273-integer-to-english-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0742-to-lower-case](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0742-to-lower-case) |
+| [0837-most-common-word](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [1250-longest-common-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -426,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0816-design-hashset](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0816-design-hashset) |
+| [0837-most-common-word](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1752-arithmetic-subarrays](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1752-arithmetic-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -522,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0837-most-common-word](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [1708-design-parking-system](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Recursion

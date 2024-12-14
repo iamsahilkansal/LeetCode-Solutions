@@ -12,13 +12,10 @@ public:
             }
         }
         if(int(word[0])<=90 && flag1){
-            cout<<"1";
             return true;
         } 
         if(int(word[0])>=97 && flag2){
-            cout<<"2";
             return true;
-
         } 
         if(flag2) return true;
         return false;

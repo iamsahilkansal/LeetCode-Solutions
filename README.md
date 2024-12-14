@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0273-integer-to-english-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0520-detect-capital](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [1250-longest-common-subsequence](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |

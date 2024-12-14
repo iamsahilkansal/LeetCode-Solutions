@@ -389,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3567-convert-date-to-binary](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [3321-type-of-triangle](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
+| [3567-convert-date-to-binary](https://github.com/iamsahilkansal/LeetCode-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
